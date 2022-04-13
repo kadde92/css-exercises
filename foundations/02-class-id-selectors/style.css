@@ -1,0 +1,19 @@
+.primary {
+    color: rgb(240, 70, 126);
+    font-family: "Verdana", DejaVu Sans, sans-serif;
+}
+
+#unique {
+    color:rgb(5, 11, 90);
+    font-size: 36px;
+}
+
+#uniikki {
+    font-size: 24px;
+    background-color: rgb(26, 170, 26);
+    font-weight: bold;
+}
+
+.special {
+    font-size: 24px;
+}
